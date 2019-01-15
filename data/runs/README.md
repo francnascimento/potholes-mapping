@@ -1,0 +1,1 @@
+Each file represents a car run with the precipitation sensor on.
