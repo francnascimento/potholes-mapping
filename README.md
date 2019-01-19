@@ -18,7 +18,7 @@ This sensor was primarily installed on mobile phones so that you could use your 
 
 Due to the metric used, the algorithm detects street bumps as candidates for potholes, to solve this problem, I used a dataset of all street bumps cataloged by the city of São Paulo obtained by the [law of access to information](http://www.sic.sp.gov.br/), to disregard any detection that shares the same geographic location.
 
-I try to let the main notebook self explanatory, but if you have any doubts, feel free to send me an email.
+I tried to let the main notebook self explanatory, but if you have any doubts, feel free to send me an email.
 
 ## License
 
