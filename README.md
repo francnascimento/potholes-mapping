@@ -1,6 +1,6 @@
 [image]: https://github.com/francnascimento/potholesMapping/blob/master/pothole.jpg "Pothole"
 
-# potholesMapping
+# Potholes Mapping
 ![Pothole][image]
 
 An algorithm that ranks potholes as the cars pass through them.
